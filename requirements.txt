@@ -1,0 +1,2 @@
+vk==1.5.3
+APScheduler==3.0.2
