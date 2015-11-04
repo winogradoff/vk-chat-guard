@@ -59,7 +59,7 @@ class ChatGuard:
         response = self.api.messages.setChatPhoto(
             file=post(
                 url=self.api.photos.getChatUploadServer(chat_id=self.chat_id)['upload_url'],
-                files={'file': open('images/mai-logo.png', 'rb')}
+                files={'file': open('images/logo.png', 'rb')}
             ).json()['response']
         )
         print('READY.')
