@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/vkontakte-api.iml" filepath="$PROJECT_DIR$/.idea/vkontakte-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/VK-Chat-Guard.iml" filepath="$PROJECT_DIR$/.idea/VK-Chat-Guard.iml" />
     </modules>
   </component>
 </project>
